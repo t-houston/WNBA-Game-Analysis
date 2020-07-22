@@ -1,0 +1,59 @@
+Glossary:
+
+Tm -- Team
+
+Pos -- Position. Meant to reflect average career role(s).
+
+({'G': 1, 'F': 2, 'C': 3, 'G-F': 4, 'F-G': 5, 'F-C': 6, 'C-F': 6})
+
+NUM GAMES -- Number of games played
+
+MP -- Minutes Played
+
+PER -- Player Efficiency Rating 
+
+A measure of per-minute production standardized such that the league average is 15.
+
+TS% -- True Shooting Percentage
+
+A measure of shooting efficiency that takes into account 2-point field goals, 3-point field goals, and free throws.
+
+3PAr -- 3-Point Attempt Rate
+Percentage of FG Attempts from 3-Point Range
+
+FTr -- Free Throw Attempt Rate
+Number of FT Attempts Per FG Attempt
+
+ORB% -- Offensive Rebound Percentage
+An estimate of the percentage of available offensive rebounds a player grabbed while she was on the floor.
+
+TRB% -- Total Rebound Percentage
+An estimate of the percentage of available rebounds a player grabbed while she was on the floor.
+
+AST% -- Assist Percentage
+An estimate of the percentage of teammate field goals a player assisted while she was on the floor.
+
+STL% -- Steal Percentage
+An estimate of the percentage of opponent possessions that end with a steal by the player while she was on the floor.
+
+BLK% -- Block Percentage
+An estimate of the percentage of opponent two-point field goal attempts blocked by the player while she was on the floor.
+
+TOV% -- Turnover Percentage
+An estimate of turnovers committed per 100 plays.
+
+USG% -- Usage Percentage
+An estimate of the percentage of team plays used by a player while she was on the floor.
+
+OWS -- Offensive Win Shares
+An estimate of the number of wins contributed by a player due to her offense.
+
+DWS -- Defensive Win Shares
+An estimate of the number of wins contributed by a player due to her defense.
+
+WS -- Win Shares
+An estimate of the number of wins contributed by a player.
+
+WS_40 -- Win Shares Per 40 Minutes
+An estimate of the number of wins contributed by a player per 40 minutes
+
